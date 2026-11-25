@@ -1,0 +1,6 @@
+{
+  "name": "Sonora Hub — Catálogo Musical, Mapa y Asistente IA",
+  "description": "Sistema web dinámico para tiendas de instrumentos musicales, estudios y escuelas de música con catálogo CRUD en Supabase, Google Maps interactivo y asistente con Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
